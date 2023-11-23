@@ -16,7 +16,6 @@ common-rub.surge.sh
 
 Before you can use the "Blog Post App," you'll need to set up your development environment. Make sure you have the following prerequisites installed:
 
-- Node.js: You can download it from [nodejs.org](https://nodejs.org/).
 
 ## Installation
 
